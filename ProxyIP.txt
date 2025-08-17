@@ -20,3 +20,14 @@
 146.56.138.126#KR_CM_ProxyIP
 146.56.191.52#KR_CM_ProxyIP
 152.69.231.181#KR_CM_ProxyIP
+
+vless://fb5f5c0d-4e77-4214-ad37-4c4598c6a655@cf.090227.xyz:443?encryption=none&security=tls&sni=hugging.jickyx.qzz.io&fp=chrome&type=ws&host=hugging.jickyx.qzz.io&path=%2Fvless-argo%3Fed%3D2560#ZH-US-Amazon_Data_Services_NoVa?id=自建
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlpILVVTLUFtYXpvbl9EYXRhX1NlcnZpY2VzX05vVmEiLA0KICAiYWRkIjogImNmLjA5MDIyNy54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZmI1ZjVjMGQtNGU3Ny00MjE0LWFkMzctNGM0NTk4YzZhNjU1IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJodWdnaW5nLmppY2t5eC5xenouaW8iLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImh1Z2dpbmcuamlja3l4LnF6ei5pbyIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9?id=自建
+trojan://fb5f5c0d-4e77-4214-ad37-4c4598c6a655@cf.090227.xyz:443?security=tls&sni=hugging.jickyx.qzz.io&fp=chrome&type=ws&host=hugging.jickyx.qzz.io&path=%2Ftrojan-argo%3Fed%3D2560#ZH-US-Amazon_Data_Services_NoVa?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@www.visa.com.tw:443?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_visa_tw_443?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@www.visa.com.hk:2053?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_visa_hk_2053?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@www.visa.com.br:8443?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_visa_br_8443?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@www.visaeurope.ch:443?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_visa_ch_443?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@usa.visa.com:2053?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_visa_us_2053?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@icook.hk:8443?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_icook_hk_8443?id=自建
+vless://47bd9f46-3ef1-41da-badc-d47d14df8d77@icook.tw:443?encryption=none&security=tls&sni=clawcloud.jickyx.elementfx.com&fp=chrome&type=ws&host=clawcloud.jickyx.elementfx.com&path=%2F47bd9f46-3ef1-41da-badc-d47d14df8d77%3Fed%3D2048#cf_tunnel_icook_tw_443?id=自建
